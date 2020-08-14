@@ -1,4 +1,4 @@
-<h2> Hi, I'm Juan Zamudio <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Juan Zamudio</h2>
 
 <p><em>BackEnd Developer at <a href="https://gbm.com/r">GBM</a>
 </br>Currently  working on the OMS API <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
