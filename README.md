@@ -1,11 +1,15 @@
-### Hi there 👋
+<h2> Hi, I'm Juan Zamudio <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
+<p><em>BackEnd Developer at <a href="https://gbm.com/r">GBM</a>
+</br>Currently  working on the OMS API <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
 <!--
 **JuanZamudioGBM/JuanZamudioGBM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on the buffet API
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
