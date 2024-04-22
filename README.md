@@ -1,6 +1,6 @@
 <h2> Hi, I'm Juan Zamudio</h2>
 
-<p><em>BackEnd Developer at <a href="https://gbm.com/r">GBM</a>
+<p><em>BackEnd Developer at <a href="https://gbm.com/">GBM</a>
 </br>Currently  working on the OMS API <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
